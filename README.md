@@ -54,6 +54,7 @@ The application will be available at `http://localhost:8080`
 
 ## Available Scripts
 
+
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run build:dev` - Build in development mode
