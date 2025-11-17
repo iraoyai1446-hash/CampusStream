@@ -39,6 +39,13 @@ This file tracks individual contributions to the CampusStream project.
   - Form validation and error handling
   - Accessibility improvements (ARIA labels)
 
+### @EmekaAI
+- **Role:** QA Engineer
+- **Contributions:**
+  - Cross-browser testing and bug reports
+  - Mobile responsiveness validation
+  - User acceptance testing coordination
+
 ---
 
 *Last updated: November 17, 2025*
