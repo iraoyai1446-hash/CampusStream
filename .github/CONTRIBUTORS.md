@@ -18,6 +18,13 @@ This file tracks individual contributions to the CampusStream project.
   - API endpoint implementation
   - Database security and RLS policies
 
+### @D-jack6
+- **Role:** UI/UX Designer
+- **Contributions:**
+  - Dark mode color palette refinement
+  - Glass morphism design system
+  - Mobile-first layout improvements
+
 ---
 
 *Last updated: November 17, 2025*
