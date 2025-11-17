@@ -46,6 +46,13 @@ This file tracks individual contributions to the CampusStream project.
   - Mobile responsiveness validation
   - User acceptance testing coordination
 
+### @kwekus
+- **Role:** DevOps Engineer
+- **Contributions:**
+  - Vercel deployment configuration
+  - Environment variable setup
+  - CI/CD pipeline optimization
+
 ---
 
 *Last updated: November 17, 2025*
