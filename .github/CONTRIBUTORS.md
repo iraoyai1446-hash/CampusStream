@@ -25,6 +25,13 @@ This file tracks individual contributions to the CampusStream project.
   - Glass morphism design system
   - Mobile-first layout improvements
 
+### @Oma-3
+- **Role:** Full Stack Developer
+- **Contributions:**
+  - React Query data fetching optimization
+  - PWA service worker configuration
+  - Authentication context implementation
+
 ---
 
 *Last updated: November 17, 2025*
