@@ -11,6 +11,13 @@ This file tracks individual contributions to the CampusStream project.
   - Optimized mobile breakpoints for better UX
   - Code review and testing of authentication flows
 
+### @brianjackreece
+- **Role:** Backend Developer
+- **Contributions:**
+  - Supabase database schema design
+  - API endpoint implementation
+  - Database security and RLS policies
+
 ---
 
 *Last updated: November 17, 2025*
